@@ -1,0 +1,13 @@
+[
+  {
+    "id": 0,
+    "icon": "./assets/imgs/icons/bedrock.png",
+    "name": "Editor Extension",
+    "description": null,
+    "author": {
+      "name": "DarkGamer (@xKingDarkYT)",
+      "link": "https://twitter.com/xKingDarkYT",
+    },
+    "link": "https://github.com/DarkGamerYT/Bedrock-Editor-Extension/releases",
+  }
+]
